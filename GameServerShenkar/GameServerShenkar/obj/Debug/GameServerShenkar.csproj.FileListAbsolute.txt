@@ -1,0 +1,180 @@
+F:\Shenkar\Server Course Semester A 20024\Lesson 5\GameServerShenkar\bin\Debug\GameServerShenkar.exe.config
+F:\Shenkar\Server Course Semester A 20024\Lesson 5\GameServerShenkar\bin\Debug\GameServerShenkar.exe
+F:\Shenkar\Server Course Semester A 20024\Lesson 5\GameServerShenkar\bin\Debug\GameServerShenkar.pdb
+F:\Shenkar\Server Course Semester A 20024\Lesson 5\GameServerShenkar\obj\Debug\GameServerShenkar.csproj.AssemblyReference.cache
+F:\Shenkar\Server Course Semester A 20024\Lesson 5\GameServerShenkar\obj\Debug\GameServerShenkar.csproj.SuggestedBindingRedirects.cache
+F:\Shenkar\Server Course Semester A 20024\Lesson 5\GameServerShenkar\obj\Debug\GameServerShenkar.csproj.CoreCompileInputs.cache
+F:\Shenkar\Server Course Semester A 20024\Lesson 5\GameServerShenkar\obj\Debug\GameServerShenkar.exe
+F:\Shenkar\Server Course Semester A 20024\Lesson 5\GameServerShenkar\obj\Debug\GameServerShenkar.pdb
+F:\Shenkar\Server Course Semester A 20024\Lesson 5\GameServerShenkar\bin\Debug\Newtonsoft.Json.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 5\GameServerShenkar\bin\Debug\websocket-sharp-standard.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 5\GameServerShenkar\bin\Debug\Newtonsoft.Json.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 5\GameServerShenkar\obj\Debug\GameServerShenkar.csproj.CopyComplete
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\GameServerShenkar.exe.config
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\GameServerShenkar.exe
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\GameServerShenkar.pdb
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\Newtonsoft.Json.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\Pipelines.Sockets.Unofficial.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\StackExchange.Redis.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\System.Buffers.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\System.IO.Pipelines.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\System.Memory.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\System.Numerics.Vectors.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\System.Threading.Channels.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\websocket-sharp-standard.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\Newtonsoft.Json.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\Pipelines.Sockets.Unofficial.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\StackExchange.Redis.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\System.Buffers.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\System.IO.Pipelines.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\System.Memory.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\System.Numerics.Vectors.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\System.Threading.Channels.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\obj\Debug\GameServerShenkar.csproj.CoreCompileInputs.cache
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\obj\Debug\GameServerShenkar.csproj.CopyComplete
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\obj\Debug\GameServerShenkar.exe
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\obj\Debug\GameServerShenkar.pdb
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\obj\Debug\GameServerShenkar.csproj.AssemblyReference.cache
+F:\Shenkar\Server Course Semester A 20024\Lesson 6\GameServerShenkar\obj\Debug\GameServerShenkar.csproj.SuggestedBindingRedirects.cache
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\GameServerShenkar.exe.config
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\GameServerShenkar.exe
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\GameServerShenkar.pdb
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\Newtonsoft.Json.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\Pipelines.Sockets.Unofficial.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\StackExchange.Redis.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\System.Buffers.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\System.IO.Pipelines.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\System.Memory.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\System.Numerics.Vectors.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\System.Threading.Channels.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\websocket-sharp-standard.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\Newtonsoft.Json.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\Pipelines.Sockets.Unofficial.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\StackExchange.Redis.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\System.Buffers.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\System.IO.Pipelines.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\System.Memory.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\System.Numerics.Vectors.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\System.Threading.Channels.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\obj\Debug\GameServerShenkar.csprojAssemblyReference.cache
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\obj\Debug\GameServerShenkar.csproj.CoreCompileInputs.cache
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\obj\Debug\GameServerShenkar.csproj.CopyComplete
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\obj\Debug\GameServerShenkar.exe
+F:\Shenkar\Server Course Semester A 20024\Lesson 7\GameServerShenkar\obj\Debug\GameServerShenkar.pdb
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\GameServerShenkar.exe.config
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\GameServerShenkar.exe
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\GameServerShenkar.pdb
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\Newtonsoft.Json.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\Pipelines.Sockets.Unofficial.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\StackExchange.Redis.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\System.Buffers.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\System.IO.Pipelines.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\System.Memory.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\System.Numerics.Vectors.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\System.Threading.Channels.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\websocket-sharp-standard.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\Newtonsoft.Json.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\Pipelines.Sockets.Unofficial.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\StackExchange.Redis.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\System.Buffers.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\System.IO.Pipelines.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\System.Memory.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\System.Numerics.Vectors.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\System.Threading.Channels.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\obj\Debug\GameServerShenkar.csproj.AssemblyReference.cache
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\obj\Debug\GameServerShenkar.csproj.SuggestedBindingRedirects.cache
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\obj\Debug\GameServerShenkar.csproj.CoreCompileInputs.cache
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\obj\Debug\GameServerShenkar.csproj.CopyComplete
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\obj\Debug\GameServerShenkar.exe
+F:\Shenkar\Server Course Semester A 20024\Lesson 9\GameServerShenkar\obj\Debug\GameServerShenkar.pdb
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\GameServerShenkar.exe.config
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\GameServerShenkar.exe
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\GameServerShenkar.pdb
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\Newtonsoft.Json.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\Pipelines.Sockets.Unofficial.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\StackExchange.Redis.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\System.Buffers.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\System.IO.Pipelines.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\System.Memory.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\System.Numerics.Vectors.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\System.Threading.Channels.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\websocket-sharp-standard.dll
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\Newtonsoft.Json.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\Pipelines.Sockets.Unofficial.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\StackExchange.Redis.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\System.Buffers.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\System.IO.Pipelines.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\System.Memory.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\System.Numerics.Vectors.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\System.Threading.Channels.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\obj\Debug\GameServerShenkar.csproj.AssemblyReference.cache
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\obj\Debug\GameServerShenkar.csproj.SuggestedBindingRedirects.cache
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\obj\Debug\GameServerShenkar.csproj.CoreCompileInputs.cache
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\obj\Debug\GameServerShenkar.csproj.CopyComplete
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\obj\Debug\GameServerShenkar.exe
+F:\Shenkar\Server Course Semester A 20024\Lesson 10\GameServerShenkar\obj\Debug\GameServerShenkar.pdb
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\obj\Debug\GameServerShenkar.csproj.AssemblyReference.cache
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\obj\Debug\GameServerShenkar.csproj.CoreCompileInputs.cache
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\obj\Debug\GameServerShenkar.exe
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\obj\Debug\GameServerShenkar.pdb
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\GameServerShenkar.exe.config
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\GameServerShenkar.exe
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\GameServerShenkar.pdb
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\StackExchange.Redis.dll
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\System.Buffers.dll
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\System.IO.Pipelines.dll
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\System.Memory.dll
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\System.Threading.Channels.dll
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\websocket-sharp-standard.dll
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\StackExchange.Redis.xml
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\System.Buffers.xml
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\System.IO.Pipelines.xml
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\System.Memory.xml
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\System.Threading.Channels.xml
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\40gil\Desktop\degree\year_4\sm1\games_servers\final_script\GameServerShenkar\GameServerShenkar\obj\Debug\GameServerShenkar.csproj.CopyComplete
